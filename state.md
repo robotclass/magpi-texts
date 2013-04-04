@@ -1,5 +1,10 @@
-Issue 01:
-1-11 - converted to text:
+Process log
+===========
+
+Issue 01
+--------
+
+1-11 pages - converted to text:
 
 * 02-intro.md
 * 03-fresh-fruit.md
@@ -9,4 +14,4 @@ Issue 01:
 * 09-Hardware-Development-and-Robotics.md
 * 10-Skutter.md
 
-12-32 - left
+12-32 pages - left
